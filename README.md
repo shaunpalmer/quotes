@@ -9,4 +9,4 @@ The template includes name address telephone number email address and it's reall
 
 You've still got a clean out the project for all the working folders
 
-Let's project is a work in progress and not to be used in commercial or final project still ways to go yet Setup the Repo
+Let's project is a work in progress and not to be used in commercial or final project still ways to go yet 
